@@ -1,0 +1,11 @@
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\bin\Debug\PHP LiveChat Test.exe.config
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\bin\Debug\PHP LiveChat Test.exe
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\bin\Debug\PHP LiveChat Test.pdb
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\obj\Debug\PHP LiveChat Test.csprojResolveAssemblyReference.cache
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\obj\Debug\PHP LiveChat Test.csproj.GenerateResource.Cache
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\obj\Debug\PHP LiveChat Test.exe
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\obj\Debug\PHP LiveChat Test.pdb
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\obj\Debug\PHPLiveChat.Forms.ChatViewer.resources
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\obj\Debug\PHPLiveChat.Properties.Resources.resources
+c:\users\callum carmicheal\documents\visual studio 2015\Projects\PHP LiveChat Test\PHP LiveChat Test\obj\Debug\PHPLiveChat.Forms.Tests.Test_1And2.resources

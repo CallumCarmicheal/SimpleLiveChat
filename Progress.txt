@@ -1,0 +1,45 @@
+
+Start basic and work the way down!
+
+KEY
+
+    [ ] = TO BE DONE
+    [X] = DONE
+
+    +   = ADD
+    -   = REMOVE
+    *   = MAY ADD, MAY NOT
+
+TESTS BY NUMBER:
+    1:
+        PHP:
+            [X] + Write Chat to file
+            [X] + Read Chat from file
+            [X] + Support to polling
+            [X] + Take User input via posts
+        C#:
+            [X] + Read chat
+            [X] + Call API
+            [X] + Send message
+            [X] + Polling Support
+    3:
+        PHP:
+            [X] + Make use of functions
+        C#:
+            [X] + Swap between tests
+    4:
+        PHP:
+            [ ] + Simple Authentication
+    5:
+        C#:
+            [ ] + Simple Library
+    6:
+        PHP:
+            [ ] * Use Classes
+            [ ] + Create Database Schema
+    7:
+        PHP:
+            [ ] * Use Classes
+            [ ] + Store chat into Database
+        HTML, C#, PHP:
+            [ ] * Incorporate JSON
